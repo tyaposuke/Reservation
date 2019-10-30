@@ -1,6 +1,6 @@
 # Reservation
 Reservation
-!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
