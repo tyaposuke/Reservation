@@ -10,7 +10,7 @@ Reservation
 
 <body>
 <main>
-  <h1>GitHub Pages のサンプルです</h1>
+  <h1>https://docs.google.com/forms/d/e/1FAIpQLSc1FD8xFJyK6yShNvQ0_AET1NTJpViWOsmxbhppKo8puubO4w/viewform</h1>
   <a href="http://www.tam-tam.co.jp/tipsnote/"><button>TipsNote に戻る</button></a>
 </main>
 
