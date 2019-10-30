@@ -15,4 +15,4 @@ Reservation
 </main>
  <h1>https://calendar.google.com/calendar/embed?src=jaoeksqmsbth78trlv2u5cgtsc%40group.calendar.google.com&ctz=Asia%2FTokyo</h1>
 
-<iframe src="https://calendar.google.com/calendar/embed?src=jaoeksqmsbth78trlv2u5cgtsc%40group.calendar.google.com&ctz=Asia%2FTokyo" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FTokyo&amp;src=b21vdC5zYW50YW5hQGdtYWlsLmNvbQ&amp;src=amEuamFwYW5lc2UjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23039BE5&amp;color=%230B8043" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
