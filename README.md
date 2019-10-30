@@ -14,8 +14,3 @@ Reservation
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSc1FD8xFJyK6yShNvQ0_AET1NTJpViWOsmxbhppKo8puubO4w/viewform"><button>予約フォーム に戻る</button></a>
 </main>
 
-<script>
-console.log('Reservation system');
-</script>
-</body>
-</html>
